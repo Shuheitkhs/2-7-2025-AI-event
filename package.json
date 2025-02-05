@@ -1,0 +1,15 @@
+{
+  "name": "2-7-2025-ai-event",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.82.0"
+  }
+}
